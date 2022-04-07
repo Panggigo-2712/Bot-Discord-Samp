@@ -1,0 +1,19 @@
+{
+  "name": "bot-prime-rp",
+  "version": "1.0.0",
+  "description": "bot discord prime rp",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "^16.x"
+  },
+  "author": "Panggigo2712",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.2"
+  }
+}
