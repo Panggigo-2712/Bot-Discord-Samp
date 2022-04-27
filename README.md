@@ -1,3 +1,4 @@
+## Penting
 Tinggal ganti aja ini nya di database -> config.json
 
 {
