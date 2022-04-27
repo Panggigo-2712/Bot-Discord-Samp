@@ -1,20 +1,6 @@
 ## Penting
 Tinggal ganti aja ini nya di database -> config.json
 
-{
-"RoleAdmin":"",
-"ChannelRegister":"",
-"RoleAddRegister":"",
-"RoleRemoveRegister":"",
-"TagRegister":"",
-"ChannelCounterMember":"",
-"GrupCounter":"",
-"ChannelJoinLogs":"",
-"ChannelLeaveLogs":"",
-"Prefix": "",
-"Token": ""
-}
-
 ## Fitur
 
 1. Ban
@@ -22,10 +8,9 @@ Tinggal ganti aja ini nya di database -> config.json
 3. Clear
 4. Ping
 5. register
-
-Ada fitur Counter nya sama Wellcome-Goodbye
+6. Wellcome-Goodbye
+7. Counter
 
 Cara pakainya:
-
 Glitch: https://glitch.com/
 Developer Bot: https://discord.com/developers/applications
