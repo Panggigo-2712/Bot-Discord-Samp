@@ -1,6 +1,6 @@
 Tinggal ganti aja ini nya di database -> config.json
 
-{
+central{
   "RoleAdmin":"",
   "ChannelRegister":"",
   "RoleAddRegister":"",
@@ -14,7 +14,8 @@ Tinggal ganti aja ini nya di database -> config.json
   "Token": ""
 }
 
-CMD CMDnya
+## Fitur
+
 1. Ban
 2. Kick
 3. Clear
