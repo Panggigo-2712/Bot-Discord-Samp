@@ -1,4 +1,4 @@
-Tinggal ganti aja ini nya di database -> config.json
+<left> Tinggal ganti aja ini nya di database -> config.json
 
 central{
   "RoleAdmin":"",
@@ -28,3 +28,4 @@ Cara pakainya:
 
 Glitch: https://glitch.com/
 Developer Bot: https://discord.com/developers/applications
+</left>
